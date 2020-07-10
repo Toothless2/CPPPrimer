@@ -1,4 +1,4 @@
 C++ Primer Book Exercies
 ---
 
--[x] Chapter 1
+- [x] Chapter 1
